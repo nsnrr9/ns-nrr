@@ -35,3 +35,16 @@
   <img src="https://img.shields.io/badge/500px-0099E5?style=for-the-badge&logo=500px&logoColor=white" style="margin-bottom: 5px;" />
 </a>-->
 
+<!-- Divider -->
+<hr style="margin: 20px 0; border: 1px solid #ccc;" />
+
+## Quick Information
+Good day to anyone seeing this, I am Nethra-- you might see me around with a pseudo-name nsnrr, sleeping0rca or Nyra but thats all me lol. I've been working on multiple fields in and itself of Computer Science. I got first interested in HTML because of neocities and myspace, then I transitioned to C# due to Unity, and shortly to Lua. I sort of just started liking the idea of what I was doing and took up some Networking courses like CompTIA and figured I like network based applications much better...soon in 2021 I got interested in ML and its potency. Naturally, I was intersted in theoritical ML and decided I would like to research further and develop algorithms for an optimised experience in ML itself.
+
+- I am a `17` year old female. `(I'm NOT a dude. Pls, oh my god)`
+- 🌿🌊 I have an obession towards ecological matters such as the ocean and forests.
+- Sharkarcheology & Whale evolution enthusiast.
+- I'm currently learning `C++` & `Rust`
+
+#### Rotting area
+<img align="left" height="300px" width="500px" src="./desk.jpg" />

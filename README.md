@@ -3,5 +3,35 @@
 <div align-"center">
 
 <!-- Socials-->
-<a href="https://www.linkedin.com/in/nethra-s-77030130b/" target=_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
+<!-- LinkeDin-->
+<a href="https://www.linkedin.com/in/nethra-s-77030130b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+
+<!-- Hackaday-->
+<a href="https://hackaday.io/nsnrr.999?saved=true" target="_blank">
+  <img src="https://img.shields.io/badge/Hackaday-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+
+<!-- DevPost-->
+<a href="https://devpost.com/nsnrr-999?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
+  <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+
+<!-- Youtube-->
+<a href="https://www.youtube.com/@ns-nrrr" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="margin-bottom: 5px;" />
+</a>
+
+<!-- Well, here are the socials I know I wont be active on for the next one+ years, because goddamn, I'm still stuck in school and IB sucks and I can't do shit :(-->
+
+<!-- Devianart
+<a href="https://www.deviantart.com/ns-nrr" target="_blank">
+  <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" style="margin-bottom: 5px;" />
+</a>-->
+
+<!-- 500px
+<a href="https://500px.com/p/ns-nrr?view=photos" target="_blank">
+  <img src="https://img.shields.io/badge/500px-0099E5?style=for-the-badge&logo=500px&logoColor=white" style="margin-bottom: 5px;" />
+</a>-->
+

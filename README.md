@@ -8,21 +8,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 
-<!-- Hackaday-->
-<a href="https://hackaday.io/nsnrr.999?saved=true" target="_blank">
-  <img src="https://img.shields.io/badge/Hackaday-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white" style="margin-bottom: 5px;" />
-</a>
-
-<!-- DevPost-->
-<a href="https://devpost.com/nsnrr-999?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
-  <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" style="margin-bottom: 5px;" />
-</a>
-
-<!-- Youtube-->
-<a href="https://www.youtube.com/@ns-nrrr" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="margin-bottom: 5px;" />
-</a>
-
 <!-- Well, here are the socials I know I wont be active on for the next one+ years, because goddamn, I'm still stuck in school and IB sucks and I can't do shit :(-->
 
 <!-- Devianart
@@ -39,19 +24,10 @@
 <hr style="margin: 20px 0; border: 1px solid #ccc;" />
 
 ## Quick Information
-Good day to anyone seeing this, I am Nethra-- you might see me around with a pseudo-name nsnrr, sleeping0rca or Nyra but thats all me lol. I've been working on multiple fields in and itself of Computer Science. I got first interested in HTML because of neocities and myspace, then I transitioned to C# due to Unity, and shortly to Lua. I sort of just started liking the idea of what I was doing and took up some Networking courses like CompTIA and figured I like network based applications much better...soon in 2021 I got interested in ML and its potency. Naturally, I was intersted in theoritical ML and decided I would like to research further and develop algorithms for an optimised experience in ML itself.
+I am Nethra S I go by nsnrr9 online. I am a programmer & I do a lot of other things other than that as well. 
 
-But yes, you might notice that not a lot of repositories have been published, thats majorly because I've been working on conference papers rather than working on actual projects and its getting me so mad right now but however there are a few projects I'm actively working on right now. Super cool stuff!
+Not a lot of repositories have been published, thats majorly because I've been working on conference papers rather than working on actual projects and its getting me so mad right now but however there are a few projects I'm actively working on right now. Super cool stuff!
 
-1. Space communication using Raspberrypi
-2. Radio interceptor using ESP modules and Raspberrypi-- Building Flipper0 from scratch
-3. Multiple Kali support scripts
-4. MULTIPLE RESEARCH PAPERS ON MACHINE LEARNINGGGGG 😭
+also, 🌿🌊 I have an obession towards ecological matters such as the ocean and forests, and so I go above and beyond working on projects with regards to these.
 
-other than that~
-- I am a `17` year old female. `(I'm NOT a dude. Pls, oh my god)`
-- 🌿🌊 I have an obession towards ecological matters such as the ocean and forests.
-- Sharkarcheology & Whale evolution enthusiast.
 
-#### Rotting area
-<img align="left" height="300px" width="500px" src="./desk.jpg" />

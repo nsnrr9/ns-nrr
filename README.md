@@ -23,11 +23,4 @@
 <!-- Divider -->
 <hr style="margin: 20px 0; border: 1px solid #ccc;" />
 
-## Quick Information
-I am Nethra, I go by nsnrr9 online. I am a programmer & I do a lot of other things other than that as well, Such as birding, cooking and gardening.
-
-Not a lot of repositories have been published, thats majorly because I've been working on conference papers rather than working on actual projects and its getting me so mad right now but however there are a few projects I'm actively working on right now. Super cool stuff!
-
-also, 🌿🌊 I have an obession towards ecological matters such as the ocean and forests, and so I go above and beyond working on projects with regards to these.
-
 
